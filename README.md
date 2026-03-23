@@ -22,3 +22,7 @@ A real-time object detection web application built using YOLOv8 and Streamlit. U
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Demo
+
+![Object Detection Demo](street_scene.png)
